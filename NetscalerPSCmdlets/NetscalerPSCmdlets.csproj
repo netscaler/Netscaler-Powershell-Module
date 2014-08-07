@@ -54,9 +54,6 @@
   <ItemGroup>
     <Compile Include="Classes\NSIP.cs" />
     <Compile Include="Classes\NSVirtualServer.cs" />
-    <Compile Include="NSPSSnapin.cs">
-      <SubType>Component</SubType>
-    </Compile>
     <Compile Include="NSServerIPsCommandGet.cs" />
     <Compile Include="NSVirtualServerCommandGet.cs" />
     <Compile Include="NSVirtualServerCommandNew.cs" />
