@@ -8,7 +8,7 @@ The Netscaler module requires the following
 
 *  PowerShell version 3.0
 * As well as .Net version 4.x [http://msdn.microsoft.com/en-us/library/5a4x27ek(v=vs.110).aspx](http://msdn.microsoft.com/en-us/library/5a4x27ek(v=vs.110).aspx)
-* A Citrix Netscaler application. If you don't have one available to you, see the Additional Information section
+* A Citrix Netscaler appliance. If you don't have one available to you, see the Additional Information section
 
 
 Install
